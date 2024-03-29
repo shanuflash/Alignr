@@ -5,9 +5,10 @@ This project implements a Career Guidance System to assist users in making infor
 Alignr addresses the challenge of navigating career paths by providing a data-driven recommendation system. Users can input their skills, interests, and educational background, and the system utilizes the KNN algorithm to match them with suitable career options.
 
 ## Features
-KNN-powered Recommendations: Leverages the K-Nearest Neighbors algorithm to identify relevant career paths based on user-provided data.
-Next.js and Flask Integration: Combines the flexibility of Next.js for a dynamic frontend with the power of Python Flask for backend functionalities.
-User-friendly Interface: Provides a clear and intuitive interface for users to interact with the system and explore career options.
+- KNN-powered Recommendations: Leverages the K-Nearest Neighbors algorithm to identify relevant career paths based on user-provided data.
+- Next.js and Flask Integration: Combines the flexibility of Next.js for a dynamic frontend with the power of Python Flask for backend functionalities.
+- User-friendly Interface: Provides a clear and intuitive interface for users to interact with the system and explore career options.
+
 ## Requirements
 Frontend: Next.js framework
 Backend: Python Flask framework
@@ -22,7 +23,7 @@ Alignr empowers users to make informed career choices by leveraging KNN-based re
 
 ## Getting Started
 Clone the repository: git clone https://github.com/shanuflash/Alignr.git
-Install dependencies: Refer to the project's documentation (if available) for specific installation instructions.
+Install dependencies: Refer to the project's documentation for specific installation instructions.
 Run the application: Follow the instructions within the project's codebase to launch the Alignr system.
 
 ## Contributing
